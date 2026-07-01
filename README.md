@@ -1,6 +1,6 @@
 # Hi there, I'm Surendran Aathiththan 👋
 
-I am a Civil Engineering undergraduate at the University of Peradeniya, specializing in structural and geotechnical design. While i experienced in calculating load paths and soil settlements.
+I am a Civil Engineering undergraduate at the University of Peradeniya, specializing in structural and geotechnical design. 
 
 **What I do:**
 *   🏙️ **Civil & Structural:** ETABS, SAP2000, STAAD Pro, PLAXIS, IDEA StatiCa

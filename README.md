@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Surendran Aathiththan 👋
+
+I am a Civil Engineering undergraduate at the University of Peradeniya, specializing in structural and geotechnical design. While my day job involves calculating load paths and soil settlements.
+
+**What I do:**
+*   🏙️ **Civil & Structural:** ETABS, SAP2000, STAAD Pro, PLAXIS, IDEA StatiCa
+*   📐 **Drafting & BIM:** AutoCAD, Revit, Civil 3D
+*   ☁️ **Cloud & Compute:** Microsoft Certified (Azure Fundamentals & AI Fundamentals)
+*   🐧 **Tech Enthusiast:** Custom hardware configurations and Arch-based Linux workflows
+
+
+
+📫 **Reach me at:** [[Your Email/LinkedIn Link](https://www.linkedin.com/in/surendran-aathiththan-2419b4345)]
 
 <!--
 **Surendran-Aathiththan/Surendran-Aathiththan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 # Hi there, I'm Surendran Aathiththan 👋
 
-I am a Civil Engineering undergraduate at the University of Peradeniya, focusing on structural and geotechnical design
+I am a Civil Engineering undergraduate at the University of Peradeniya, focusing on structural and geotechnical design. I use these GitHub repositorys to share the projects I complete while learning industry-standard engineering software.
+
 
 **What I do:**
 *   🏙️ **Civil & Structural:** ETABS, SAP2000, STAAD Pro, PLAXIS, IDEA StatiCa

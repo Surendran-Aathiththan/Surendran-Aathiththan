@@ -1,28 +1,23 @@
-# Hi there, I'm Surendran Aathiththan 👋
+# Hi, I'm Surendran Aathiththan 👋
 
-I am a Civil Engineering undergraduate at the University of Peradeniya, focusing on structural and geotechnical design. I use these GitHub repositorys to share the projects I complete while learning industry-standard engineering software.
+I'm a **Civil Engineering student at the University of Peradeniya, Sri Lanka**.
+I design and analyse buildings and foundations using engineering software, and I share my project files here.
 
+### What I do
 
-**What I do:**
-*   🏙️ **Civil & Structural:** ETABS, SAP2000, STAAD Pro, PLAXIS, IDEA StatiCa
-*   📐 **Drafting & BIM:** AutoCAD, Revit, Civil 3D
-*   🐧 **Tech Enthusiast:**  hardware knowledge and troubleshooting Software 
+- 🏢 **Structural design**: analyse and design concrete buildings (ETABS, STAAD.Pro, Prokon)
+- ⛰️ **Geotechnical modelling**: model soil and retaining walls (PLAXIS 2D)
+- 📐 **Drawings & BIM**: plans, elevations and 3D building models (AutoCAD, Revit, Civil 3D)
+- 📅 **Planning**: construction schedules (MS Project)
 
+### My projects
 
+- [STAAD.Pro](https://github.com/Surendran-Aathiththan/Staad-pro-v8i-projects): G+4 concrete building with foundation design
+- [ETABS](https://github.com/Surendran-Aathiththan/Etabs-Projects): G+1 and G+2 buildings, steel truss bridge
+- [PLAXIS 2D](https://github.com/Surendran-Aathiththan/Plaxis-2D-Projects): sheet-pile retaining wall with ground anchor
+- [Revit](https://github.com/Surendran-Aathiththan/Revit-Projects): building plans and 3D models from university projects
+- [More projects →](https://github.com/Surendran-Aathiththan?tab=repositories)
 
-📫 **Reach me at:** [aathiththan2022@gmail.com | https://www.linkedin.com/in/surendran-aathiththan-2419b4345]
+### Contact
 
-<!--
-**Surendran-Aathiththan/Surendran-Aathiththan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [aathiththan2022@gmail.com](mailto:aathiththan2022@gmail.com) · [LinkedIn](https://www.linkedin.com/in/surendran-aathiththan-2419b4345)

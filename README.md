@@ -24,24 +24,6 @@ More: [ETABS models](https://github.com/Surendran-Aathiththan/Etabs-Projects) ·
 
 ---
 
-## Technical skills
-
-**Structural analysis and design**
-- 3D RC frame modelling: materials, sections, supports, rigid diaphragms, slab meshing
-- Load calculation and assignment: dead, live, wall, floor-finish, staircase, lift/tank loads
-- Seismic (IS 1893 equivalent static) and wind (IS 875) load generation; load combinations to IS 456, BS 8110 and Eurocode-style factors
-- Concrete member design checks, member resizing, concrete and steel take-off
-- Isolated footing design from support reactions
-
-**Geotechnical engineering**
-- PLAXIS 2D plane-strain and axisymmetric models with Mohr-Coulomb and Hardening Soil materials
-- Soil parameter selection (E<sub>50</sub>, E<sub>ur</sub>, c′, φ′, ψ), groundwater, plate and interface modelling, staged calculation
-
-**Drafting, BIM, surveying and planning**
-- Plans, elevations, sections and foundation details in AutoCAD and Revit
-- Survey data processing and drawing in Civil 3D
-- Construction scheduling with calendars, milestones and task links in MS Project
-
 ## Software
 
 | Area | Tools I have used in the projects on this profile |
